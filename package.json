@@ -1,0 +1,11 @@
+{
+  "name": "frames_compare",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loupe \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/frames_compare.js",
+  "scripts": {
+    "start": "node lib/frames_compare.js"
+  }
+}
